@@ -1,0 +1,32 @@
+[
+  [
+    105,
+    "Protector de motor",
+    120.0,
+    4
+  ],
+  [
+    101,
+    "Espejo deportivo",
+    45.0,
+    10
+  ],
+  [
+    104,
+    "Puños deportivos",
+    25.0,
+    20
+  ],
+  [
+    102,
+    "Manija de freno",
+    35.0,
+    8
+  ],
+  [
+    103,
+    "Direccionales LED",
+    60.0,
+    15
+  ]
+]

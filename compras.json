@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-10-06 21:32:41",
+    "codigo": 105,
+    "nombre": "Protector de motor",
+    "cantidad": 1,
+    "costo_unitario": 120.0,
+    "total": 120.0,
+    "estado": "REGISTRADA"
+  }
+]
